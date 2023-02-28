@@ -65,7 +65,7 @@ public class Main {
         for (int i = boxT3.length - 1; i >= 0; i--) {
             System.out.print(boxT3[i]);
             if (i != 0) {
-                System.out.print(",");
+                System.out.print(", ");
 
             }
         }
